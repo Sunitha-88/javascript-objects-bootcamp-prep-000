@@ -1,5 +1,5 @@
-var playlist ={};
-playlist = {'Phil Ochs': "Here's to the State of Mississippi", Kanye: "Gold Digger"};
+var playlist ={artistName:'songTitle'};
+
 
 function updatePlaylist(playlist, artistName, songTitle){
 
