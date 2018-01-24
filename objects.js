@@ -10,4 +10,3 @@ function removeFromPlaylist(playlist1,artistName){
 	console.log(ans);
   return playlist1;
 	}
-console.log(removeFromPlaylist({'kanye':'Gold Digger','sam': 'John'}, 'sam'));
